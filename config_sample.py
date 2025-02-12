@@ -50,8 +50,8 @@ RCLONE_SERVE_USER = ""
 RCLONE_SERVE_PASS = ""
 
 # Mega credentials
-MEGA_EMAIL = ""
-MEGA_PASSWORD = ""
+MEGA_EMAIL = "megadjpreet@kareli.in"
+MEGA_PASSWORD = "megadjpreet@kareli.in"
 
 # Update
 UPSTREAM_REPO = "https://github.com/AeonOrg/Aeon-MLTB"
